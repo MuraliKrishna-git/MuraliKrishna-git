@@ -3,7 +3,7 @@ I am Murali Krishna L, currently pursuing a BE degree with a strong foundation i
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ _.murali.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Murali Krishna )(https://www.linkedin.com/in/murali-krishna-git/) [![Portfolio](https://img.shields.io/badge/Portfolio-Website)](https://portfoliomurali.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.murali.07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murali-krishna-git/) [![Portfolio](https://img.shields.io/badge/Portfolio-Website)](https://portfoliomurali.netlify.app/)
 
 
 # 💻 Tech Stack:
